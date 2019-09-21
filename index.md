@@ -3,7 +3,9 @@ layout: default
 title: Nakamoto Studies Institute
 ---
 
+<img class="wp-image-239 size-full" src="https://nakamotostudies.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-2.38.07-PM.png" alt="" width="1356" height="822" srcset="https://nakamotostudies.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-2.38.07-PM.png 1356w, https://nakamotostudies.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-2.38.07-PM-300x182.png 300w, https://nakamotostudies.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-2.38.07-PM-768x466.png 768w, https://nakamotostudies.org/wp-content/uploads/2018/05/Screen-Shot-2018-05-27-at-2.38.07-PM-1024x621.png 1024w" sizes="(max-width: 1356px) 100vw, 1356px">
 
+NSI is curating and organizing the best primary and secondary source material available on the history of Bitcoin and its multiple forks.
 
 
 <section id="newestarticles">
