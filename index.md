@@ -24,7 +24,7 @@ title: Nakamoto Studies Institute
 
 
 <section id="list">
-<h2>Satoshi's emails </h2>
+<h2>Satoshi Nakamoto's Emails </h2>
 <p>
 If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
 </p>
