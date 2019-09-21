@@ -28,6 +28,16 @@ title: Nakamoto Studies Institute
 <p>
 If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
 </p>
+
+<h3>Emails with Wei Dai</h3>
+<ul>
+  
+<li><a href="/emails/cryptography/1/">Bitcoin P2P e-cash paper</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
+  
+<li><a href="/emails/cryptography/2/">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 01:37:43 UTC)</em></li>
+  
+<li><a href="/emails/cryptography/3/">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 16:23:49 UTC)</em></li></ul>
+
 <ul>
   
 <li><a href="/emails/cryptography/1/">Bitcoin P2P e-cash paper</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
