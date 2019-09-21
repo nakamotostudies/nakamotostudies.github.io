@@ -7,9 +7,10 @@ title: Nakamoto Studies Institute
 
 
 <section id="newestarticles">
-NSI is curating and organizing the best primary and secondary source material available on the history of Bitcoin and its multiple forks.	
-	
 <h2>Latest writing and work</h2>
+	
+<p>NSI is curating and organizing the best primary and secondary source material available on the history of Bitcoin and its multiple forks.	
+	</p>
 <ul style="
     list-style: none;
     padding-left: 0px;
