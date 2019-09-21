@@ -29,7 +29,7 @@ title: Nakamoto Studies Institute
 If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
 </p>
 
-<h3>Emails with Wei Dai</h3>
+<h3>Wei Dai</h3>
 <ul>
   
 <li><a href="/emails/cryptography/1/">Bitcoin P2P e-cash paper</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
@@ -73,6 +73,11 @@ If you want the announcements and opportunities that I never post publicly, get 
    <li><a href="/emails/bitcoin-list/19/">[bitcoin-list] Welcome</a> <em>(2008-12-10 17:00:23 UTC)</em></li>
   
    <li><a href="/emails/cryptography/16/">Bitcoin v0.1 released</a> <em>(2009-01-08 19:27:40 UTC)</em></li>
+   
+   </ul>
+   <h3>bitcoin-list</h3>
+   
+   <ul>
   
    <li><a href="/emails/bitcoin-list/20/">[bitcoin-list] Bitcoin v0.1.2 now available</a> <em>(2009-01-11 22:32:18 UTC)</em></li>
   
