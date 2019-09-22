@@ -135,25 +135,4 @@ If you want the announcements and opportunities that I never post publicly, get 
  <ul><li><a href="/emails/bitcoin-list/20/">Not this again</a> <em>(2009-01-11 22:32:18 UTC)</em></li></ul>
    
 
-<section id="contact">
-<h2>
-	Contact me
-</h2>
-<p>
-	Reach me at <a href="mailto:derykmakgill@gmail.com">derykmakgill@gmail.com.</a></p>
-	<p>You can follow me on Twitter at <a href="https://twitter.com/derykmakgill">@DerykMakgill,</a> but here's <a href="/nofollow">why you shouldn't follow me</a> (or anyone).</p>
 
-</section>
-
-<section id="search" style="
-    margin-bottom: 0px;
-">
-<h2>Search</h2>
-<form action="https://duckduckgo.com/" method="get">
-	<label for="q">Search derykmakgill.com for anything:</label>
-	<input type="text" name="q" value="">
-	<input type="hidden" name="sites" value="“derykmakgill.com”">
-	<input type="hidden" name="ia" value="web">
-	<input type="submit" value="search">
-</form>
-</section>
