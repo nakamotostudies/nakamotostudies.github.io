@@ -5,24 +5,6 @@ title: Nakamoto Studies Institute
 
 
 
-
-<section id="newestarticles">
-<h2>Welcome to the Nakamoto Studies Institute</h2>
-	
-<p>NSI is curating and organizing the best primary and secondary source material available on the history of Bitcoin and its multiple forks — BCH, BSV and BTC.	
-	</p>
-<ul style="
-    list-style: none;
-    padding-left: 0px;
-">
-{% for post in site.posts %}
-	    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-</ul>
-</section>
-
-
-
 <section id="list">
 <h2>Satoshi Nakamoto's Emails </h2>
 <p>
