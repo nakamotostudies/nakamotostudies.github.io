@@ -29,12 +29,6 @@ title: Nakamoto Studies Institute
 If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
 </p>
 
-<h3>Wei Dai</h3>
-<ul>
-  
-<li><a href="/emails/cryptography/1/">Citation of your b-money page</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
-  
-<li><a href="/emails/cryptography/3/">Re: Citation of your b-money page</a> <em>(2008-11-03 16:23:49 UTC)</em></li></ul>
 <h3>Cryptography Mailing List</h3>
 <ul>
   
@@ -112,6 +106,14 @@ If you want the announcements and opportunities that I never post publicly, get 
    <li><a href="/emails/bitcoin-list/34/">[bitcoin-list] Bitcoin 0.3.19 is released</a> <em>(2010-12-13 16:12:09 UTC)</em></li>
   
   </ul>	
+  
+  <h3>Wei Dai</h3>
+<ul>
+  
+<li><a href="/emails/cryptography/1/">Citation of your b-money page</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
+  
+<li><a href="/emails/cryptography/3/">Re: Citation of your b-money page</a> <em>(2008-11-03 16:23:49 UTC)</em></li></ul>
+  
   
 <h3>Mike Hearn</h3>
 
