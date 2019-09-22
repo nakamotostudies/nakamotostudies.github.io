@@ -112,7 +112,44 @@ If you want the announcements and opportunities that I never post publicly, get 
    <li><a href="/emails/bitcoin-list/34/">[bitcoin-list] Bitcoin 0.3.19 is released</a> <em>(2010-12-13 16:12:09 UTC)</em></li>
   
   </ul>	
-	
+  
+<h3>Mike Hearn</h3>
+
+ <ul>
+  
+   <li><a href="/emails/bitcoin-list/20/">[bitcoin-list] Bitcoin v0.1.2 now available</a> <em>(2009-01-11 22:32:18 UTC)</em></li>
+  
+   <li><a href="/emails/bitcoin-list/21/">[bitcoin-list] Bitcoin v0.1 Alpha release notes</a> <em>(2009-01-12 20:20:47 UTC)</em></li>
+  
+   <li><a href="/emails/bitcoin-list/22/">[bitcoin-list] Bitcoin v0.1.3</a> <em>(2009-01-12 22:48:23 UTC)</em></li>
+  
+   <li><a href="/emails/cryptography/17/">Bitcoin v0.1 released</a> <em>(2009-01-16 16:03:14 UTC)</em></li>
+  
+   <li><a href="/emails/bitcoin-list/23/">Re: [bitcoin-list] Bitcoin v0.1 released</a> <em>(2009-01-16 18:35:32 UTC)</em></li>
+  
+   <li><a href="/emails/cryptography/18/">Bitcoin v0.1 released</a> <em>(2009-01-25 15:47:10 UTC)</em></li>
+  
+   <li><a href="/emails/bitcoin-list/24/">Re: [bitcoin-list] Problems</a> <em>(2009-01-25 16:45:25 UTC)</em></li>
+  
+   <li><a href="/emails/bitcoin-list/25/">[bitcoin-list] Bitcoin v0.1.5 released</a> <em>(2009-02-04 19:46:04 UTC)</em></li>
+  </ul>
+  
+ <h3>Lazlo Hanecz</h3>
+	<ul>
+  
+   <li><a href="/emails/bitcoin-list/20/">I don't mean to sound like a socialist...</a> <em>(2009-01-11 22:32:18 UTC)</em></li></ul>
+   
+   <h3>Jon Matonis</h3>
+   <ul><li><a href="/emails/bitcoin-list/20/">Re: Introduction</a> <em>(2009-01-11 22:32:18 UTC)</em></li></ul>
+   
+   <h3>Gavin Andreesen</h3>
+      <ul><li><a href="/emails/bitcoin-list/20/">...a mysterious shadowy figure...</a> <em>(2009-01-11 22:32:18 UTC)</em></li></ul>
+      
+ <h3>Unconfirmed</h3>
+  <ul><li><a href="/emails/bitcoin-list/20/">Bitcoin XT Fork</a> <em>(2009-01-11 22:32:18 UTC)</em></li></ul>
+ <h3>Debunked</h3>
+ <ul><li><a href="/emails/bitcoin-list/20/">Not this again</a> <em>(2009-01-11 22:32:18 UTC)</em></li></ul>
+   
 
 <section id="contact">
 <h2>
