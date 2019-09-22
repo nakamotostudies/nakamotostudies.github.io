@@ -92,7 +92,7 @@ If you want the announcements and opportunities that I never post publicly, get 
   <h3>Wei Dai</h3>
 <ul>
   
-<li><a href="/emails/cryptography/1/">Citation of your b-money page</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
+<li><a href="/emails/dai/35/">Citation of your b-money page</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
   
 <li><a href="/emails/cryptography/3/">Re: Citation of your b-money page</a> <em>(2008-11-03 16:23:49 UTC)</em></li></ul>
   
