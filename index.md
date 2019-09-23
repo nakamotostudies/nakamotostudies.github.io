@@ -8,7 +8,7 @@ title: Nakamoto Studies Institute
 <section id="list">
 <h2>Satoshi Nakamoto's Emails </h2>
 <p>
-If you want the announcements and opportunities that I never post publicly, get on my private email list, here:
+Read ALL of Satoshi's original emails, unabridged, with added commentary and context, cross-linking, and references. 
 </p>
 
 <h3>Cryptography Mailing List</h3>
