@@ -16,7 +16,7 @@ Read ALL of Satoshi's original emails, unabridged, with added commentary and con
   
 <li><a href="/emails/cryptography/1">Bitcoin P2P e-cash paper</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
   
-<li><a href="/emails/cryptography/2">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 01:37:43 UTC)</em></li>
+<li><a href="/emails/cryptography/2">Re: Bitcoin P2P e-cash paper</a> <em>(2008-11-03 01:37:43 UTC)</em></li>
   
 <li><a href="/emails/cryptography/3">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 16:23:49 UTC)</em></li>
  
