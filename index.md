@@ -14,27 +14,27 @@ If you want the announcements and opportunities that I never post publicly, get 
 <h3>Cryptography Mailing List</h3>
 <ul>
   
-<li><a href="/emails/cryptography/1/">Bitcoin P2P e-cash paper</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
+<li><a href="/emails/cryptography/1">Bitcoin P2P e-cash paper</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
   
-<li><a href="/emails/cryptography/2/">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 01:37:43 UTC)</em></li>
+<li><a href="/emails/cryptography/2">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 01:37:43 UTC)</em></li>
   
-<li><a href="/emails/cryptography/3/">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 16:23:49 UTC)</em></li>
-  
-<li><a href="/emails/cryptography/4/">Bitcoin P2P e-cash paper</a> <em>(2008-11-06 20:15:40 UTC)</em></li>
-  
-  <li><a href="/emails/cryptography/5/">Bitcoin P2P e-cash paper</a> <em>(2008-11-08 18:54:38 UTC)</em></li>
-  
- <li><a href="/emails/cryptography/6/">Bitcoin P2P e-cash paper</a> <em>(2008-11-09 01:58:48 UTC)</em></li>
-  
- <li><a href="/emails/cryptography/7/">Bitcoin P2P e-cash paper</a> <em>(2008-11-09 03:09:49 UTC)</em></li>
-  
-   <li><a href="/emails/cryptography/8/">Bitcoin P2P e-cash paper</a> <em>(2008-11-09 16:31:26 UTC)</em></li>
-  
-   <li><a href="/emails/cryptography/9/">Bitcoin P2P e-cash paper</a> <em>(2008-11-10 02:14:30 UTC)</em></li>
+<li><a href="/emails/cryptography/3">Bitcoin P2P e-cash paper</a> <em>(2008-11-03 16:23:49 UTC)</em></li>
  
-   <li><a href="/emails/cryptography/10/">Bitcoin P2P e-cash paper</a> <em>(2008-11-10 22:18:20 UTC)</em></li>
+<li><a href="/emails/cryptography/4">Bitcoin P2P e-cash paper</a> <em>(2008-11-06 20:15:40 UTC)</em></li>
   
-   <li><a href="/emails/cryptography/11/">Bitcoin P2P e-cash paper</a> <em>(2008-11-13 22:56:55 UTC)</em></li>
+  <li><a href="/emails/cryptography/5">Bitcoin P2P e-cash paper</a> <em>(2008-11-08 18:54:38 UTC)</em></li>
+  
+ <li><a href="/emails/cryptography/6">Bitcoin P2P e-cash paper</a> <em>(2008-11-09 01:58:48 UTC)</em></li>
+  
+ <li><a href="/emails/cryptography/7">Bitcoin P2P e-cash paper</a> <em>(2008-11-09 03:09:49 UTC)</em></li>
+  
+   <li><a href="/emails/cryptography/8">Bitcoin P2P e-cash paper</a> <em>(2008-11-09 16:31:26 UTC)</em></li>
+  
+   <li><a href="/emails/cryptography/9">Bitcoin P2P e-cash paper</a> <em>(2008-11-10 02:14:30 UTC)</em></li>
+ 
+   <li><a href="/emails/cryptography/10">Bitcoin P2P e-cash paper</a> <em>(2008-11-10 22:18:20 UTC)</em></li>
+  
+   <li><a href="/emails/cryptography/11">Bitcoin P2P e-cash paper</a> <em>(2008-11-13 22:56:55 UTC)</em></li>
   
    <li><a href="/emails/cryptography/12/">Bitcoin P2P e-cash paper</a> <em>(2008-11-14 18:55:35 UTC)</em></li>
   
@@ -92,9 +92,9 @@ If you want the announcements and opportunities that I never post publicly, get 
   <h3>Wei Dai</h3>
 <ul>
   
-<li><a href="/emails/dai/35/">Citation of your b-money page</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
+<li><a href="/emails/dai/35">Citation of your b-money page</a> <em>(2008-10-31 18:10:00 UTC)</em></li>
   
-<li><a href="/emails/cryptography/3/">Re: Citation of your b-money page</a> <em>(2008-11-03 16:23:49 UTC)</em></li></ul>
+<li><a href="/emails/dai/36">Re: Citation of your b-money page</a> <em>(2008-11-03 16:23:49 UTC)</em></li></ul>
   
   
 <h3>Mike Hearn</h3>
